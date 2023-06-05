@@ -1,5 +1,5 @@
 let player = {
-    name: "Per",
+    name: "Farzad",
     chips: 200
 }
 
@@ -63,3 +63,4 @@ function newCard() {
         renderGame()        
     }
 }
+console.log("Hello World")
